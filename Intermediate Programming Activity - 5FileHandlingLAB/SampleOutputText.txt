@@ -1,0 +1,3 @@
+Length: 57
+Specific Path: ../Intermediate Programming Activity - 5FileHandlingLAB/SampleText.txt
+Number of Words: 11
